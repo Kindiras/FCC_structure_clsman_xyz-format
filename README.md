@@ -5,4 +5,4 @@ To run this code=>open terminal and go the the directory where these files are l
 python should be installed in the machine.
 python getnew_config.py -t clsman (for clsman format)or python getnew_config.py -t xyz (for xyz format).
 It will ask the input values and you have to give the inputs.
-Any help emai: indiras.khatri@rockest.utoledo.edu
+Any help email: indiras.khatri@rockest.utoledo.edu
