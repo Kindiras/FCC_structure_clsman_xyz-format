@@ -1,0 +1,1 @@
+# FCC_structure_clsman_xyz-format
