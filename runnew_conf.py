@@ -32,7 +32,7 @@ def filedumpc(filename,ia,containts,itype,lsize,strainx,strainy,lattice):
      strainx = strainx
      strainy=strainy
      bag = lattice/2
-     xlat = bag*strain
+     xlat = bag*strainx
      txaxes = Lsize*bag*strainx
      tyaxes = Lsize*bag*strainy
      tzaxes = 80
